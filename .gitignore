@@ -156,3 +156,4 @@ artifacts/prepare_callbacks/tensorboard_log_fit/tb_logs_at_2022-11-25-19-22-56/t
 artifacts/prepare_callbacks/tensorboard_log_fit/tb_logs_at_2022-11-25-19-22-56/validation/events.out.tfevents.1669386704.INEURON.15712.1.v2
 artifacts/prepare_callbacks/tensorboard_log_fit/tb_logs_at_2022-11-25-20-26-25/train/events.out.tfevents.1669388186.INEURON.9900.0.v2
 src/deepClassifier/components/evaluation.py
+artifacts/prepare_base_model
