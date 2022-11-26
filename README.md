@@ -26,3 +26,17 @@ STEP 2: install mlflow
 STEP 3: Set remote URI
 
 STEP 4: Use context manager of mlflow to start run and then log metrics, params and model
+
+
+
+# You can run this Project on a Docker image from Anywhere on a port number 8501
+```
+docker pull zeeshankhan29/image_class
+
+```
+
+# Conclution
+
+```
+This project can be used to Predict the image of Cat and Dog        
+```
