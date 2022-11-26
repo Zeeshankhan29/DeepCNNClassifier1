@@ -40,3 +40,8 @@ docker pull zeeshankhan29/image_class
 ```
 This project can be used to Predict the image of Cat and Dog        
 ```
+
+image.png       
+
+image.png
+
