@@ -40,8 +40,7 @@ docker pull zeeshankhan29/image_class
 ```
 This project can be used to Predict the image of Cat and Dog        
 ```
+![image](https://user-images.githubusercontent.com/95518247/204089273-638b8113-00fe-4425-a005-3cf95f31b254.png)
+![image](https://user-images.githubusercontent.com/95518247/204089376-ab5a7389-f84c-4b6d-b6de-141d2a717ea1.png)
 
-![img]image.png       
-
-![img]image.png
 
