@@ -16,9 +16,9 @@
 
 STEP 1: Set the env variable | Get it from dagshub -> remote tab -> mlflow tab(run in gibash)
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/Zeeshankhan29/DeepCNNClassifier1.mlflow \
-export MLFLOW_TRACKING_USERNAME=Zeeshankhan29 \
-export MLFLOW_TRACKING_PASSWORD=9c6177f800b11201652c3fafb6f0ee36615bec40 \
+export MLFLOW_TRACKING_URI=https://dagshub.com/Zeeshankhan29/DeepCNNClassifier1.mlflow \        
+export MLFLOW_TRACKING_USERNAME=Zeeshankhan29 \     
+export MLFLOW_TRACKING_PASSWORD=<>\
 python script.py
 
 STEP 2: install mlflow
